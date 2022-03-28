@@ -2,7 +2,7 @@
 description: >-
   Global Hack Week is your opportunity to spend a week focused on creating,
   developing, and sharing the projects you’ve always wanted to tackle. The
-  week-long event features workshops, fun mini-events,
+  week-long event features workshops, fun mini-events.
 ---
 
 # What is Global Hack Week?
