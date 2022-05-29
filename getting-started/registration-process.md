@@ -30,3 +30,9 @@ Go to [https://hackp.ac/INIT](https://hackp.ac/INIT) and register for the event
 Without checking in you will not be considered present in the event, you can check-in while the event is live that is July 3 - July 10th 2022
 
 SO PLEASE CHECKIN - MLH will guide you on how-to in their opening ceremonies.
+
+### 6. Get the guild-specific event role
+
+To get notifications about the event data curated by the mentors/leaders, you need to opt-in for an event role, in EddieHub, you just need to click the "mlh-guild" button in the roles channel
+
+![](<../.gitbook/assets/Screenshot 2022-05-29 124855.png>)
