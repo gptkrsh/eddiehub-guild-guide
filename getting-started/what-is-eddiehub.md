@@ -9,7 +9,7 @@ description: >-
 
 EddieHub is the global Open Source community, that has helped thousands of individuals get into open source and shine.
 
-EddieHub mentors, supports, motivates and does whatever we can to help new developers get into open source.
+EddieHub helps in mentoring, supports, motivates and does whatever we can to help new developers get into open source.
 
 EddieHub is known to be the most inclusive community on the planet 🤯
 
@@ -25,7 +25,7 @@ Let's know a bit more about EddieHub, before the EddieHub Guild.
 
 ### What is the EddieHub Guild?
 
-EddieHub is spreading the collaborative culture in the whole tech industry, including hackathons! The EddieHub guild is the EddieHub Community hacking together as a MLH guild in Global Hack Week. More information about guilds at:
+EddieHub is spreading the collaborative culture in the whole tech industry, including hackathons! The EddieHub guild is the EddieHub Community hacking together as an MLH guild in Global Hack Week. More information about guilds at:
 
 {% content-ref url="what-is-global-hack-week.md" %}
 [what-is-global-hack-week.md](what-is-global-hack-week.md)
@@ -35,10 +35,10 @@ EddieHub is spreading the collaborative culture in the whole tech industry, incl
 
 EddieHub :heart: Inclusiveness! (EddieHub even uses bots to make sure it is inclusive here :rocket:)
 
-EddieHub is in the top 3 for the past 3 seasons :eyes: (Historic Power :muscle: ||Sorry Adam :stuck\_out\_tongue\_winking\_eye:||)
+EddieHub is in the top 3 for the past 3 seasons :eyes: (Historic Power :muscle: PS: Sorry Adam :stuck\_out\_tongue\_winking\_eye:)
 
 EddieHub has Motivation, Collaboration, Teamwork and Community! Absolutely everything you'll ever need hacking!
 
-EddieHub holds the most amount of guild meetups in the past 2 seasons :exploding\_head:
+EddieHub holds the most amount of the guild meetups in the past the last 2 LHDs :exploding\_head:
 
 EddieHub is a community of 6k+ Active & Helpful community members, looking forward to collaborating & hack!

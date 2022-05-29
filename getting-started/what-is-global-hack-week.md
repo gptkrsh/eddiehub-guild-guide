@@ -13,7 +13,7 @@ In Global Hack Week, all of the participants, form guilds (refer to the next sec
 
 ### What are Global Hack Week Guilds?
 
-Guilds are a community or clan, The guild is a really big team, every point you earn goes to you and your guild, and the friendly competition is to try and get your guild at the top. But that's just not it, the guild leaders, work hard to provide their guild with the tools and resources, I led a guild previously and we even posted ideas for every challenge, to our members, to make it easier! We also got teams made within our guild. But the bigger picture is, the guild is a community, a community of people willing to help you excel in your hackathon journey.
+Guilds are a community or clan, The guild is a really big team, every point you earn goes to you and your guild, and the friendly competition is to try and get your guild at the top. But that's just not it, the guild leaders, work hard to provide their guild with the tools and resources, I led a guild previously and we even posted ideas for every challenge, to our members, to make it easier! We also got teams made within our guild. But the bigger picture is, that the guild is a community, a community of people willing to help you excel in your hackathon journey.
 
 #### Shout out to a few awesome Guilds!
 
@@ -27,6 +27,8 @@ Guilds are a community or clan, The guild is a really big team, every point you 
 Everyone can. Yes, Global Hack Week & EddieHub are both inclusive communities, that encourage everyone to join in.
 
 ### Links
+
+> Some of these might still be containing the previous season's information, after the links have been updated this note will be removed, kindly do not rely on these, Thank you!
 
 The official Global Hack Week site: [https://globalhackweek.mlh.io](https://globalhackweek.mlh.io)
 
