@@ -2,7 +2,7 @@
 
 ### 1. Register for the week-long event
 
-Go to [https://hackp.ac/INIT](https://hackp.ac/INIT) and register for the event
+Go to [https://hackp.ac/October](https://hackp.ac/October) and register for the event
 
 ![](<../.gitbook/assets/Screenshot 2022-05-29 121218.png>)
 
